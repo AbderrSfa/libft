@@ -1,4 +1,4 @@
-# Libft
+# 🧰 Libft
 
 ## 🧐 Description
 Libft is a project in which I recreate a library full of useful functions to employ throughout my journey at 1337.
